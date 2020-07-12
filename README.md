@@ -1,6 +1,6 @@
 ![](docs/mona.gif)
 
-[![Open In Colab](https://bit.ly/3iOEH29)
+[![Open In Colab](https://colab.research.google.com/drive/1UvoMlILaix5M_01Y2TxuNFtRA0TSxwi4#scrollTo=CwfgG7XBSmrT)
 
 [<img src="https://img.shields.io/badge/slack-join-brightgreen?style=flat&logo=slack">](https://join.slack.com/t/avatarify/shared_invite/zt-dyoqy8tc-~4U2ObQ6WoxuwSaWKKVOgg)
 
